@@ -1,0 +1,1 @@
+Followed along side a tutorial learning Maven and managing its dependencies, different commands to run for maven, the wide range of plug-ins found from the Maven Community, learned about the Maven Local Repository and its uses of being able to push different files and use them along side other programs. Moving onto SpringBoot and SQL soon!
