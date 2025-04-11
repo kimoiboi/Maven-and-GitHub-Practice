@@ -1,3 +1,3 @@
 1. Followed along side a tutorial learning Maven and managing its dependencies, different commands to run for maven, the wide range of plug-ins found from the Maven Community, learned about the Maven Local Repository and its uses of being able to push different files and use them along side other programs. Moving onto SpringBoot and SQL soon!
 2. I have started my learning process with SQL/PostGreSQL and have missed a crucial learning step with version control (Git) which is Branching and merging branches. I am practicing these tools and will continue to develop and display my skills through GitHub!
-3. Testing Merge Conflicts
+3. Testing Merge Conflicts!
